@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZMeriam
-- 👀 I’m interested in Spring Boot Angular
+- 👀 I’m interested in Spring Boot and Angular
 - 🌱 I’m currently learning Devops, Docker, Kubernetes etc..
 - 💞️
 - 📫 How to reach me meriam.zayani@esprit.tn
