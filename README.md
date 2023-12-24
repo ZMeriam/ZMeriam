@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZMeriam
+- 👋 Hi, I’m Meriam
 - 👀 I’m interested in Spring Boot and Angular
 - 🌱 I’m currently learning Devops, Docker, Kubernetes etc..
 - 💞️ I love swimming and singing.
